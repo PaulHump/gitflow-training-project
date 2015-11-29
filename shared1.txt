@@ -6,9 +6,8 @@
 5.(lorraine)so he picked up a stick
 6.(Bish) Anyoen seen the cat
 7.(Paul) He was in the van with Pat
-8.(Allison)sat in the dish 
+8.(Allison)sat in the dish
 9.(line 9 Mark) Whilst listening to his favourite tune
-9a. pushing this directly into develop for conflict resolution 
+9a. pushing this directly into develop for conflict resolution
 10.(confliction) hopefully
-10a.adding my line to wrong code base 
-
+11.(Allison) Removed 10a which was in the wrong place
